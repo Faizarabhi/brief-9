@@ -1,0 +1,90 @@
+2022-05-14T15:32:11+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN_INC" in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php:801
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php(738): Lingotek::create_first_language()
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(307): Lingotek->admin_init('')
+#2 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(175): do_action('admin_init')
+#5 C:\xampp\htdocs\woocommerce\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php on line 801
+
+2022-05-14T15:32:57+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN_INC" in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php:801
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php(738): Lingotek::create_first_language()
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(307): Lingotek->admin_init('')
+#2 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(175): do_action('admin_init')
+#5 C:\xampp\htdocs\woocommerce\wp-admin\update.php(16): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php on line 801
+
+2022-05-14T15:33:03+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN_INC" in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php:801
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php(738): Lingotek::create_first_language()
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(307): Lingotek->admin_init('')
+#2 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(175): do_action('admin_init')
+#5 C:\xampp\htdocs\woocommerce\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php on line 801
+
+2022-05-14T15:33:26+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN_INC" in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php:801
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php(738): Lingotek::create_first_language()
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(307): Lingotek->admin_init('')
+#2 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(175): do_action('admin_init')
+#5 C:\xampp\htdocs\woocommerce\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php on line 801
+
+2022-05-14T15:38:11+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN_INC" in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php:801
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php(738): Lingotek::create_first_language()
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(307): Lingotek->admin_init('')
+#2 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(175): do_action('admin_init')
+#5 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php on line 801
+
+2022-05-14T15:38:15+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN_INC" in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php:801
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php(738): Lingotek::create_first_language()
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(307): Lingotek->admin_init('')
+#2 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(175): do_action('admin_init')
+#5 C:\xampp\htdocs\woocommerce\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\lingotek-translation\lingotek.php on line 801
+
+2022-05-14T15:44:24+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\woocommerce\wp-content\plugins\translatepress-multilingual/includes/class-settings.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\woocommerce\wp-content\plugins\translatepress-multilingual\class-translate-press.php:90
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\translatepress-multilingual\class-translate-press.php(67): TRP_Translate_Press->load_dependencies()
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\translatepress-multilingual\class-translate-press.php(49): TRP_Translate_Press->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-content\plugins\translatepress-multilingual\index.php(57): TRP_Translate_Press::get_trp_instance()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(307): trp_run_translatepress_hooks('')
+#4 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\woocommerce\wp-settings.php(450): do_action('plugins_loaded')
+#7 C:\xampp\htdocs\woocommerce\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\woocommerce\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\translatepress-multilingual\class-translate-press.php on line 90
+
+2022-05-14T20:32:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php on line 2162
+
+2022-05-14T20:32:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\src\Admin\Notes\DeprecatedNotes.php on line 9
+
+2022-05-14T20:32:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocommerce\wp-content\plugins\wordpress-seo\inc\wpseo-functions.php on line 8
+
+2022-05-14T20:32:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocommerce\wp-content\plugins\google-listings-and-ads\src\Google\GlobalSiteTag.php on line 22
+
+2022-05-14T20:33:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocommerce\wp-content\plugins\jetpack\modules\theme-tools\featured-content.php on line 10
+
